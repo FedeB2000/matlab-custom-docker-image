@@ -491,7 +491,7 @@ Requires NVIDIA Container Toolkit and NVIDIA Driver installed.
 - [MathWorks Package Manager (mpm)](https://github.com/mathworks-ref-arch/matlab-dockerfile/blob/main/MPM.md)
 - [Docker Documentation](https://docs.docker.com/)
 - [Docker Best Practices](https://docs.docker.com/develop/dev-best-practices/)
-- [MATLAB Container Images on Docker Hub](https://hub.docker.com/r/mathworks/matlab-deps)
+- [MATLAB Container Images on Docker Hub](https://hub.docker.com/u/mathworks)
 
 ---
 
